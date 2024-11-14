@@ -15,4 +15,10 @@ public class GitController {
         return " hello omprakash ";
     }
 
+    public String omprakash1(){
+        return " hello omprakash1 ";
+    }
+
+
+
 }
