@@ -8,5 +8,8 @@ public class GitController {
     public String hello(){
         return " hello spring ";
         }
+    public String om(){
+        return " hello om ";
+    }
 
 }
