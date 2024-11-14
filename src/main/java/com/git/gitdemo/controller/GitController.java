@@ -11,5 +11,8 @@ public class GitController {
     public String om(){
         return " hello om ";
     }
+    public String omprakash(){
+        return " hello omprakash ";
+    }
 
 }
