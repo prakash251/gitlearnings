@@ -16,7 +16,8 @@ public class GitController {
     }
 
     public String omprakash1(){
-        return " hello omprakash1 where arre you  ";
+        return " hello omprakash1 how are you  ";
+       // return " hello omprakash1 where arre you  ";
     }
 
 
